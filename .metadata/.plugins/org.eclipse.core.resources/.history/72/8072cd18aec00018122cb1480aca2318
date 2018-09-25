@@ -1,0 +1,10 @@
+package test_p8;
+import java.io.BufferedReader,
+
+public class Sample2_2 
+{
+	public static void main(String[] args)throws IOException
+	{
+		System.out.println("請輸入整數");
+	}
+}

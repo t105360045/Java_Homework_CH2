@@ -1,0 +1,8 @@
+package test_p12;
+import java.io.BufferedReader;
+import java.io.IOException;
+
+public class Sample2_4 
+{
+
+}
